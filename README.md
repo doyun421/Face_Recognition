@@ -24,13 +24,18 @@
 ## Face recognition Skills
 1) PyPI -
           using dlib's state-of-the-art face recognition
-          The model's accuracy 99.8% on Labeled Faces in the Wild 
+          The model has an accuracy of 99.8% on Labeled Faces in the Wild 
 LFW (Labeled Faces in the Wild) is a public benchmark for face verification, also known as pair matching. (combining two similar things as one group)
 
 - Face verification and other forms of face recognition are very different problems. For example, it is very difficult to extrapolate from performance on verification to performance on 1:N recongition. 
 
 - Many groups are not well represented in LFW. For example, there are very few children, no babies, very few people over the age of 80, and a relatively small proportion of women. In addition, many ethnicities have very minor representation or none at all.
 
+
+step 1. Find all the faces that appear in a picture
+
+### import face-recognition
+image = face_
 
 
 
