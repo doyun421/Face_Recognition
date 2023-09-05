@@ -12,6 +12,9 @@
 - Similarly, facial recognition technology can make the customer onboarding process faster.(teaching new customers the value of product or service, keep in their mind their good memory on products by fastly passing onboarding process.)
 - To reduce ATM robbies or banking fraud cases, facial recognition can be used to add another layer of security. after fingerprint recognition or bio recognition via vein recognition system.
 
-3) Entertainment on SNS
+3) Law enforcement and security services
+   - Facial recognition has been widely used by law enforcement officers for a while now. It is mainly used to identify and record criminals or persons of interest.
+   - Facial recognition is also deployed in various surveillance cameras throughout a city, such as at junctions, 
+5)  Entertainment on SNS
 
 
