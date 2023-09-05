@@ -35,7 +35,14 @@ LFW (Labeled Faces in the Wild) is a public benchmark for face verification, als
 step 1. Find all the faces that appear in a picture
 
 ### import face-recognition
-image = face_
+python 3.3+
+
+pip3 install face_recognition
+
+installing on raspberry Pi 2/3 with 8GB memory card. 
+Write it to a memory card using Etcher (burning the OS image onto removable external media) put the memory card in the RPI and boot it up
+
+
 
 
 
