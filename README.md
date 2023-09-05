@@ -8,7 +8,9 @@
     
 
 2) Banking and Finance
-
+- Customer identification and verification can be done through facial recognition.
+- Similarly, facial recognition technology can make the customer onboarding process faster.(teaching new customers the value of product or service, keep in their mind their good memory on products by fastly passing onboarding process.)
+- To reduce ATM robbies or banking fraud cases, facial recognition can be used to add another layer of security. after fingerprint recognition or bio recognition via vein recognition system.
 
 3) Entertainment on SNS
 
