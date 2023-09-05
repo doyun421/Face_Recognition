@@ -19,6 +19,20 @@
    - Facial recognition is also deployed in various surveillance cameras throughout a city, such as at junctions,
   
      
-4)  Entertainment on SNS 
+4)  Entertainment on phone ios security
+
+## Face recognition Skills
+1) PyPI -
+          using dlib's state-of-the-art face recognition
+          The model's accuracy 99.8% on Labeled Faces in the Wild 
+LFW (Labeled Faces in the Wild) is a public benchmark for face verification, also known as pair matching. (combining two similar things as one group)
+
+- Face verification and other forms of face recognition are very different problems. For example, it is very difficult to extrapolate from performance on verification to performance on 1:N recongition. 
+
+- Many groups are not well represented in LFW. For example 
+
+
+
+
 
 
