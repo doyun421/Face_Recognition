@@ -16,7 +16,9 @@
 
 3) Law enforcement and security services
    - Facial recognition has been widely used by law enforcement officers for a while now. It is mainly used to identify and record criminals or persons of interest.
-   - Facial recognition is also deployed in various surveillance cameras throughout a city, such as at junctions, 
-5)  Entertainment on SNS 
+   - Facial recognition is also deployed in various surveillance cameras throughout a city, such as at junctions,
+  
+     
+4)  Entertainment on SNS 
 
 
