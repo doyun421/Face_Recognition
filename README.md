@@ -73,7 +73,7 @@ Machines for classification and regression.
  3.         
 
 
-###Face Detection
+### Face Detection
 - Find faces in a photograph
 - Find faces in a photograph (using deep learning-cnn)
                                 1) Load the jpg file into a numpy array
