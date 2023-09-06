@@ -65,8 +65,11 @@ Major Features
        The ratio of unit test lines of code to library lines of code is about 1 to 4.
 - Machine Learning Algorithms
        Deep Learning
-       Conventional SMO(Sequential minimal optimization is an algorithm for solving the quadratic programming problem that arises during the training of suppor-vector machines) based Support Vector Machines for classification and regression.
-       
+       Conventional SMO(Sequential minimal optimization is an algorithm for solving the quadratic programming problem that arises during the training of suppor-vector machines) based Support Vector
+
+Machines for classification and regression.
+ 1. Deep Learning input (input layer, hidden layers, output layer) output
+ 2. Conventional SMO       
 
 
 
