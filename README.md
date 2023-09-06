@@ -86,3 +86,15 @@ Machines for classification and regression.
 - Find faces in batches of images w/GPU (using deep learning)
                                 1) This finds all faces in a list of images using the CNN model.
                                 2) when you need to find faces in LOTS of images very quickly and all the images are the exact same size. This is common in video processing applications where you have lots of video frames to process. 
+
+
+# Facial Recognition
+- Find and recognize unknown faces in a photograph based on photographs of known people
+                                a) Load the jpg file into numpy arrays
+                                b) Get the face encodings for each face in each image file
+                                c) results is an array of True/False telling if the unknown face matched anyone in the known_faces_array
+                                d) compare_faces - Compare a list of face encodings against a candidate encoding to see if they match.
+                                   param tolerance: how much distance between faces to consider it a match.
+
+  
+  
