@@ -69,7 +69,8 @@ Major Features
 
 Machines for classification and regression.
  1. Deep Learning input (input layer, hidden layers, output layer) output
- 2. Conventional SMO       
+ 2. Conventional SMO
+ 3.        
 
 
 
