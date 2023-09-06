@@ -89,12 +89,21 @@ Machines for classification and regression.
 
 
 # Facial Recognition
-- Find and recognize unknown faces in a photograph based on photographs of known people
+## 1. Find and recognize unknown faces in a photograph based on photographs of known people
                                 a) Load the jpg file into numpy arrays
                                 b) Get the face encodings for each face in each image file
                                 c) results is an array of True/False telling if the unknown face matched anyone in the known_faces_array
                                 d) compare_faces - Compare a list of face encodings against a candidate encoding to see if they match.
                                    param tolerance: how much distance between faces to consider it a match.
-
+## 2.  Compare faces by numeric face distance instead of only True/False matches.
+                                a) Often instead of just checking if two faces match or not (True or False), it's heplful to see how similar they are. 
+                                1. Load some images to compare against
+                                2. Get the face encodings for the known images
+                                3. Load a test image anad get encodings for it
+                                4. See how far apart the test image is from the known faces
+                                * enumerate: 열거하다. 
+                                5. distance: np.linalg.norm
+                                     norm: Euclidean norm 거리
+                                
   
   
