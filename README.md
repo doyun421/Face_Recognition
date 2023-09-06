@@ -41,6 +41,7 @@ pip3 install face_recognition
 installing on raspberry Pi 2/3 with 8GB memory card. 
 Write it to a memory card using Etcher (burning the OS image onto removable external media) put the memory card in the RPI and boot it up
 
+for run python3 and type import dlib.
 1. Clone the code from github (dlib)
 2. Build the main dlib library
 3. Build and istal the Python extensions
@@ -55,7 +56,17 @@ Write it to a memory card using Etcher (burning the OS image onto removable exte
 ##index+
 
 dlib C++ library
+Dlib is a modern C++ toolkit containing machine learning algorithms and tools for creating complex software in C++. http://dlib.net/
 
+Major Features
+- Documentation
+     - providing precise documentation for every class and function.
+- High Quality Portable code
+       The ratio of unit test lines of code to library lines of code is about 1 to 4.
+- Machine Learning Algorithms
+       Deep Learning
+       Conventional SMO(Sequential minimal optimization is an algorithm for solving the quadratic programming problem that arises during the training of suppor-vector machines) based Support Vector Machines for classification and regression.
+       
 
 
 
