@@ -2,8 +2,7 @@
 
 ## Face Recognition Use Cases
 1) Health Care
-  - Facial recognition can automatically scan the face of the patient and extract medical history and insurance information, reducing the workload for healthcare workers and reducing patient wait times. A recent study shows a 66% percent acceptance of facial recognition technology by patients to extract their information.
-    
+     
   - Facial recognition can also be used to diagnose medical disorders in patients with mild or difficult-to-detect symptoms. (e.g., fever, cough, sore throat, malaise by extract patients' expression, feeling of discomfort and lack of well-being, muscle pain, nausea, vomiting, diarrhea, loss of taste and smell)
     e.g. fever: checking thermal infrared camera, cough: frown face, sore throat: holding patient's neck, etc.
     
@@ -42,7 +41,20 @@ pip3 install face_recognition
 installing on raspberry Pi 2/3 with 8GB memory card. 
 Write it to a memory card using Etcher (burning the OS image onto removable external media) put the memory card in the RPI and boot it up
 
+1. Clone the code from github (dlib)
+2. Build the main dlib library
+3. Build and istal the Python extensions
 
+
+
+
+
+
+
+
+##index+
+
+dlib C++ library
 
 
 
