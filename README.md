@@ -1,4 +1,4 @@
-# Face Recognition
+![image](https://github.com/doyun421/Face_Recognition/assets/73266189/6bfd0fb2-7ee5-4aab-8824-542e2a8a3b1c)# Face Recognition
 
 ## Face Recognition Use Cases
 1) Health Care
@@ -70,8 +70,19 @@ Major Features
 Machines for classification and regression.
  1. Deep Learning input (input layer, hidden layers, output layer) output
  2. Conventional SMO
- 3.        
+ 3.         
 
 
-
-
+###Face Detection
+- Find faces in a photograph
+- Find faces in a photograph (using deep learning-cnn)
+                                1) Load the jpg file into a numpy array
+                                2) Find all the faces in the image using a pre-trained convolutional neural network(face_location function)
+                                3) face_location: Returns an array of bounding boxes of human faces in a image
+                                   param img = An image (as a numpy array)
+                                   param number_of_times_to_upsample: How many times to upsample(Upsampling is the method of putting zero-valued samples between actual samples to increase the sampling rate.) the image looking for faces ![image](https://github.com/doyun421/Face_Recognition/assets/73266189/c554606e-e235-4cba-b083-be46c83817d8) Higher numbers find smaller faces.
+                                   param model: Which face detection model to use. "hog" is less accurate but faster on CPUs. "cnn" is a more accurate.
+                                    
+- Find faces in batches of images w/GPU (using deep learning)
+                                1) This finds all faces in a list of images using the CNN model.
+                                2) when you need to find faces in LOTS of images very quickly and all the images are the exact same size. This is common in video processing applications where you have lots of video frames to process. 
