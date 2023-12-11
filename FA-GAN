@@ -1,1 +1,13 @@
 
+FA-GAN :
+
+Face Augmentation GAN for Deformation-Invariant Face Recognition
+
+Face Augmentation Generative Adversarial Network (FA-GAN)
+
+Existing Methods are sensitive to
+both the quality and quantity of the training data. Despite the
+availability of large-scale datasets, the long tail data distribution
+induces strong biases in model learning
+when there are low level of quality data existed for training it can be results as biased result so it can conclude as error more than 10 %. 
+
